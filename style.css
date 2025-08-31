@@ -1,0 +1,10 @@
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.checkbox1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
